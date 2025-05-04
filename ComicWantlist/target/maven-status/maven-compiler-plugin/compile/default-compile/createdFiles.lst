@@ -1,0 +1,5 @@
+com\mycompany\comicwantlist\resources\JakartaEE8Resource.class
+RegisterServlet.class
+AddComicServlet.class
+com\mycompany\comicwantlist\JakartaRestConfiguration.class
+LoginServlet.class
